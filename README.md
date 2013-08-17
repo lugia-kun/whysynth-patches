@@ -4,7 +4,7 @@ Lugia Kun's WhySynth Patch
 These are lugia-kun's additional patches for WhySynth.
 
 How to Install
-==============
+--------------
 
 1. Using WhySynth Editor Window
 
@@ -16,12 +16,12 @@ How to Install
 
 
 What is WhySynth?
-=================
+-----------------
 
 See Here: http://smbolton.com/whysynth.html
 
 Additional Information
-======================
+----------------------
 
 To change program from MIDI, LSB Bank Select and Program Change are used for
 selecting program. If you want to select Program Number 290, set LSB Bank 
