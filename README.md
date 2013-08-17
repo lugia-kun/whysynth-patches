@@ -6,13 +6,13 @@ These are lugia-kun's additional patches for WhySynth.
 How to Install
 ==============
 
-= Using WhySynth Editor Window
+1. Using WhySynth Editor Window
 
-[File] -> [Open Patch Bank (Ctrl+O)] and select the file.
+   `File` → `Open Patch Bank (Ctrl+O)` and select the file.
 
-= As default patch
+2. As default patch
 
-Copy ".WhySynth" files to <code><whysynth's prefix>/share/whysynth</code>.
+   Copy ".WhySynth" files to `<WhySynth's prefix>/share/whysynth`.
 
 
 What is WhySynth?
