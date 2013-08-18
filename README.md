@@ -14,6 +14,14 @@ How to Install
 
    Copy ".WhySynth" files to `<WhySynth's prefix>/share/whysynth`.
 
+About License
+-------------
+
+We will provide some fixes or improvements, but these files are all
+public domain.
+
+See `COPYING` file to get detail. This is same as whysynth's bundled
+`COPYING-patches` file (Public Domain Dedication and Certification).
 
 What is WhySynth?
 -----------------
